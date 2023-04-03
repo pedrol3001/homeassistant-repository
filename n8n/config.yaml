@@ -37,4 +37,4 @@ schema:
   ssl: bool
   certfile: str
   keyfile: str
-image: ghcr.io/hassio-addons/n8n/{arch}
+image: ghcr.io/pedrol3001/n8n/{arch}
