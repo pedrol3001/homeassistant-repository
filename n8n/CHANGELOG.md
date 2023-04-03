@@ -1,1 +1,1 @@
-Fix config overwrite
+Fix config.json overwrite
