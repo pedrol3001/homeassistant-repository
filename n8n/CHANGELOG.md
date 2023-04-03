@@ -1,1 +1,1 @@
-Small, public_url option fix
+Fix config overwrite
