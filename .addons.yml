@@ -4,4 +4,4 @@ addons:
   n8n:
     repository: pedrol3001/addon-n8n
     target: n8n
-    image: ghcr.io/hassio-addons/n8n/{arch}
+    image: ghcr.io/pedrol3001/n8n/{arch}
