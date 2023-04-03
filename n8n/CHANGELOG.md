@@ -1,3 +1,2 @@
-## First release of the addon
-- The project is still on development  and not well documented
-- Just to test the repository deploy
+Small Fix on CD. 
+Force it to use only stable repository channel.
