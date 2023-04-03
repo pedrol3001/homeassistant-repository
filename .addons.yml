@@ -1,5 +1,5 @@
 ---
-channel: edge
+channel: stable
 addons:
   n8n:
     repository: pedrol3001/addon-n8n
