@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  n8n:
+    repository: pedrol3001/n8n-addon
+    target: n8n
+    image: ghcr.io/hassio-addons/n8n/{arch}
