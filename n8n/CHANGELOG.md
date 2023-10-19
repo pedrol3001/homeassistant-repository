@@ -1,1 +1,1 @@
-Fix config.json overwrite
+Bump n8n to 1.12.0
