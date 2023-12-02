@@ -1,4 +1,4 @@
-# homeassistant-repository
+# Homeassistant Repository
 
 - Home Assistant allows anyone to create add-on repositories to share their
 add-ons for Home Assistant easily. 
