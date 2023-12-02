@@ -5,3 +5,7 @@ addons:
     repository: pedrol3001/addon-n8n
     target: n8n
     image: ghcr.io/pedrol3001/n8n/{arch}
+  semaphore:
+    repository: pedrol3001/addon-semaphore
+    target: semaphore
+    image: ghcr.io/pedrol3001/semaphore/{arch}
