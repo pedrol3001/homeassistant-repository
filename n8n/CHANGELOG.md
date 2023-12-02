@@ -1,0 +1,1 @@
+First version of n8n addon for home assistant
