@@ -1,0 +1,1 @@
+First version of semaphore addon for home assistant
