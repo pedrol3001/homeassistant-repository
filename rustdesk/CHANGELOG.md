@@ -1,0 +1,1 @@
+First version of rustdesk addon for home assistant

@@ -1,0 +1,27 @@
+name: Rustdesk
+version: 1.0.0
+slug: rustdesk
+description: Rustdesk add-on by Community Home Assistant Add-ons
+url: https://github.com/pedrol3001/addon-rustdesk
+codenotary: contact@pedrol.me
+init: false
+arch:
+- aarch64
+- amd64
+ports:
+  21115/tcp: 21115
+  21116/tcp: 21116
+  21116/udp: 21116
+  21117/tcp: 21117
+  21118/tcp: 21118
+  21119/tcp: 21119
+ports_description:
+  21115/tcp: NAT type test
+  21116/udp: ID registration and heartbeat service
+  21116/tcp: TCP hole punching and connection service
+  21117/tcp: Relay services
+  21118/tcp: Beb clients
+  21119/tcp: Web client
+schema:
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+image: ghcr.io/pedrol3001/rustdesk/{arch}
