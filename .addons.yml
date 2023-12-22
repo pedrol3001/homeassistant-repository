@@ -9,3 +9,15 @@ addons:
     repository: pedrol3001/addon-semaphore
     target: semaphore
     image: ghcr.io/pedrol3001/semaphore/{arch}
+  redis:
+    repository: pedrol3001/addon-redis
+    target: redis
+    image: ghcr.io/pedrol3001/redis/{arch}
+  collabora:
+    repository: pedrol3001/addon-collabora
+    target: collabora
+    image: ghcr.io/pedrol3001/collabora/{arch}
+  rustdesk:
+    repository: pedrol3001/addon-rustdesk
+    target: rustdesk
+    image: ghcr.io/pedrol3001/rustdesk/{arch}
