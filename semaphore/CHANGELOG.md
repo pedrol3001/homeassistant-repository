@@ -1,1 +1,1 @@
-First version of semaphore addon for home assistant
+Small fix on new user creation
