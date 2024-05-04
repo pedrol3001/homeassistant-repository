@@ -13,10 +13,6 @@ addons:
     repository: pedrol3001/addon-redis
     target: redis
     image: ghcr.io/pedrol3001/redis/{arch}
-  collabora:
-    repository: pedrol3001/addon-collabora
-    target: collabora
-    image: ghcr.io/pedrol3001/collabora/{arch}
   rustdesk:
     repository: pedrol3001/addon-rustdesk
     target: rustdesk
